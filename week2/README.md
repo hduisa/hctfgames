@@ -7,3 +7,4 @@
 * [VictoriqueDeBlois 2016.3.1] https://github.com/VictoriqueDeBlois/HCTF/blob/master/Week%202.md
 * [Jibo 2016.3.3] https://www.zybuluo.com/jibo/note/301677
 * [21emerald 2016.3.5] http://qifa.me/?p=203#week2
+* [Bigmud 2016.3.17] https://www.zybuluo.com/bigmud/note/316699
