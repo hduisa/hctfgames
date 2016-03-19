@@ -25,4 +25,5 @@
 * [RichardLeeeeeee 2016.3.2] https://www.zybuluo.com/RichardLeeeeeee/note/299795
 * [21emerald 2016.3.5] http://qifa.me/?p=203#week0
 * [journeysky 2016.3.5] https://github.com/journeysky/journey-sky-wp/blob/week0/README.md
+* [RaAlGhul 2016.3.6] https://www.zybuluo.com/RaAlGhul/note/303610
 * [flypig 2016.3.14] http://www.flypig233.cn/?p=64
