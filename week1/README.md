@@ -21,3 +21,4 @@
 * [IDtata 2016.3.6] https://github.com/IDtata/hctfgame_writeup/blob/master/Week1/Week1.md
 * [flypig 2016.3.14] http://www.flypig233.cn/?p=80
 * [RaAlGhul 2016.3.19] https://www.zybuluo.com/RaAlGhul/note/317873
+* [RichardLee 2016.3.27] https://www.zybuluo.com/RichardLeeeeeee/note/326755
